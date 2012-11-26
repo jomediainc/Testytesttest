@@ -1,4 +1,4 @@
 @echo off
 echo Hello world
-echo This is a crappy test.
+echo Alright, it's not that crappy.
 exit
